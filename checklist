@@ -25,9 +25,12 @@ creator is given the option to require voters to enter a name (or not)
 
 Pages:
 login
+home
+register
 create poll
 poll for users
 poll for admin
+poll:id/admin?
 
 Partials:
 nav bar
