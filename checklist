@@ -10,7 +10,6 @@ Requirements:
 - the results are ranked using the Borda Count method: https://en.wikipedia.org/wiki/Borda_count
 - note: this app does not follow the typical user authentication process: voters don't need to register or log in and the only way to access the polls or see the results is via links
 
-
 Extensions:
 - use the Instant Runoff algorithm instead of Borda Count: https://en.wikipedia.org/wiki/Instant-runoff_voting
 - make the app work well on mobile
@@ -22,3 +21,16 @@ Extensions:
 - add unit tests (using mocha + chai)
 - add end-to-end tests (using phantomjs)
 - creator is given the option to require voters to enter a name (or not)
+
+
+Pages:
+login
+home
+register
+create poll
+poll for users
+poll for admin
+poll:id/admin?
+
+Partials:
+nav bar
